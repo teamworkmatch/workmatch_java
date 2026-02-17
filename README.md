@@ -13,4 +13,4 @@ Fitur:
 - Login
 - CRUD Lowongan (Judul, Perusahaan, Lokasi, Deskripsi)
 
-blog : http://workmatch.my.id/ly?r=java
+blog : https://workmatch.my.id/ly?r=java
